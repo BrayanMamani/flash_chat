@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "204960533220",
-    "firebase_url": "https://flash-chat-78fad.firebaseio.com",
-    "project_id": "flash-chat-78fad",
-    "storage_bucket": "flash-chat-78fad.appspot.com"
+    "project_number": "671384969465",
+    "firebase_url": "https://flash-chat-77e94.firebaseio.com",
+    "project_id": "flash-chat-77e94",
+    "storage_bucket": "flash-chat-77e94.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:204960533220:android:51f363cdb8c57cd5dfbaf1",
+        "mobilesdk_app_id": "1:671384969465:android:c824aa82d6a059f485c228",
         "android_client_info": {
           "package_name": "com.brayanmamani.flash_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "204960533220-j5at0hijpm3rhr8etbk66fbt80d4dmrv.apps.googleusercontent.com",
+          "client_id": "671384969465-t75h7mqrhersagcb400var2t5gbi5rja.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCV3soq0WkDXB2SqYY7Iu3j2wePqSlZRKQ"
+          "current_key": "AIzaSyBr6LeAZvMpiDci8TMcToA_Ul3cdzht4sU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "204960533220-j5at0hijpm3rhr8etbk66fbt80d4dmrv.apps.googleusercontent.com",
+              "client_id": "671384969465-t75h7mqrhersagcb400var2t5gbi5rja.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
