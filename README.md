@@ -6,7 +6,9 @@ Dart is the programming language for Flutter, Google's UI toolkit for building b
 
 ## About Flash Chat
 
-This repository presents a a modern messaging app where users can sign up and log in to chat.
+This repository presents a modern messaging app where users can sign up and log in to chat.
+
+<img src="flash_chat.gif" width="300">
 
 ## What you will need
 
